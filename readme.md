@@ -1,2 +1,2 @@
-Tutorial on Pastebin:
+Tutorial on Pastebin
     https://pastebin.com/eYQwdeGF
